@@ -130,10 +130,9 @@ async def amireallyalive(alive):
                      f"------------------------------------ \n"
                      f"Website: https://www.facebook.com/Teknoways \n"
                      f"User: {DEFAULTUSER} \n"
-                     f"Maintainer: @Mayur_Karaniya \n"
-                     f"Admin: @Three_Cube_TeKnoways \n"
-                     f"Userbot: @testing_userbot "
-                     )    
+       )0
+
+
 
 
 
